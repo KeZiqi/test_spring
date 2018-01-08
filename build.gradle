@@ -23,8 +23,6 @@ dependencies {
     compile 'aopalliance:aopalliance:+'
     compile 'org.aspectj:aspectjweaver:+'
 
-    //
-
 }
 
 //源文件夹声明
