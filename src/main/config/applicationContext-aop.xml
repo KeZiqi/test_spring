@@ -25,6 +25,6 @@
 	<!-- 使用注解方式完成AOP操作 -->
 	
 	<!-- 开启AOP操作 -->
-	<aop:aspectj-autoproxy />
+	<!--<aop:aspectj-autoproxy />-->
 	
 </beans>

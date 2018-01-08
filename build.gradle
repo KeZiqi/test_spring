@@ -18,7 +18,7 @@ dependencies {
 
     //springframework
     compile 'org.springframework:spring-context:4.3.9.RELEASE'
-
+    compile 'org.springframework:spring-aspects:4.3.9.RELEASE'
     //aop
     compile 'aopalliance:aopalliance:+'
     compile 'org.aspectj:aspectjweaver:+'
